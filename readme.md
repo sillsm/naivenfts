@@ -406,7 +406,7 @@ Let's find out.
 
 Ok wait a minute. Why does the Etherscan.io landing page for our NFT have a link to MakersTokenV2 (MKT2). 
 Is this NFT a type of 'MakersToken'? The source code made it look pretty clearly like it was an ERC721.
-Hold on, why is the MakersToken smart contract adress identical to Beeple's NFT...
+Hold on, why is the MakersToken smart contract address identical to Beeple's NFT...
 
 Oh my gosh. Christie's completely messed up!
 What if what we have been looking at this whole time is the *smart contract framework* for Beeple's NFT,
