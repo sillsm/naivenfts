@@ -418,6 +418,6 @@ concept of what they are selling the public. Christie's is still, to this day, l
 used, instead of the NFT itself.
 
 Not to worry though, our investigation above gave us a good understanding of how Beeple's NFT is structured. Let's
-see if we cna identify the actual transaction that brought it to life. We should expect some kind of call
+see if we can identify the actual transaction that brought it to life. We should expect some kind of call
 to create a 'DigitalMedia' object, issue a single token against it, and transfer that to someone. We should also,
 eventually, be able to find a URI that actually points to the artwork.
