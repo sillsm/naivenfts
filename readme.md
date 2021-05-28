@@ -410,8 +410,10 @@ Hold on, why is the MakersToken smart contract address identical to Beeple's NFT
 
 Oh my gosh. Christie's completely messed up!
 What if what we have been looking at this whole time is the *smart contract framework* for Beeple's NFT,
-and the actual token itself is a transaction using it. That would explain why we 
-saw over 80,000 transactions at this address wouldn't it? 
+and the actual token itself is just a transaction calling this framework. That would explain why we 
+saw over 80,000 transactions at this address wouldn't it? Does a person have to pay to be allowed
+to mint a MakersToken? Presumably it costs at least a little Ether in the form of gas to
+get things moving.
 
 It is fascinating that the seller of the world's most expensive NFT actually has so little
 concept of what they are selling the public. Christie's is still, to this day, linking to the smart contract framework Beeple's NFT
