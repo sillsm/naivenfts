@@ -351,11 +351,7 @@ at the bottom of a smart contract?
  */
 ```
 
-And we come to the end of the smart contract for Beeple's NFT. That was interesting
-A
-
-
-We learned a lot just from reading the function comments, though we know nothing about Ethereum or NFTs.
+And we come to the end of the smart contract for Beeple's NFT.
 
 Let's summarize what we learned from reading the source code.
 
