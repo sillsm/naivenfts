@@ -390,7 +390,7 @@ quite figure out what it's meant for. Maybe it's used to verify the artwork is v
 Is a hash of the artwork stored in the smart contract somewhere?
 
 Finally, we learned that Ethereum seems to have a community-supported standards process
-that seems similar to Python's PEPs. But there doesn't seem to be any language about
+similar to Python's PEPs. But there doesn't seem to be any language about
 affirmative licensing anywhere. In fact, all the ERC documents like ERC721 reference cc0, as if
 the contributors are trying to waive all their rights to any protectible content in the specifications.
 
