@@ -14,7 +14,7 @@ Let's start by examining some of the NFTs that have recently been mentioned in
 the news.
 
 There's [Beeple's artwork](https://onlineonly.christies.com/s/first-open-beeple/beeple-b-1981-1/112924)
-which sold for over $69 million dollars. The Christies' website has two odd links.
+which sold for over $69 million dollars. Christie's website has two odd links.
 
 ```
 wallet address: 0xc6b0562605D35eE710138402B878ffe6F2E23807
