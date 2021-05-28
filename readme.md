@@ -399,7 +399,7 @@ the contributors are trying to waive all their rights to any protectible content
 ## Beeple's data
 
 We read through Beeple's NFT smart contract, and picked up some good knowledge just reading through the comments.
-But how did Beeple come to be the 'singleCreatorAddress'? Where does 'tokenURI' point to? Why are their 80,000 associated transactions
+But how did Beeple come to be the 'singleCreatorAddress'? Where does 'tokenURI' point to? Why are there 80,000 associated transactions
 with this thing?
 
 Let's find out.
