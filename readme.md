@@ -2,7 +2,7 @@
 
 We are naive. We know nothing about Ethereum, NFTs, anything. What do we do?
 When we attend a presentation or read a document about NFTs, we take away confusing 
-generalities that don't make sense, and leave us more confused.
+generalities that don't make sense. How do we wrap our head around this?
 
 In this naive introduction, we'll learn about NFTs by rolling up our sleeves and
 exploring their source code directly. You don't need to have coding experience to do
