@@ -8,9 +8,7 @@ In this naive introduction, we'll learn about NFTs by rolling up our sleeves and
 exploring their source code directly. You don't need to have coding experience to do
 this, because the function comments are really detailed. 
 
-We'll muck through the source code together and do our best to make sense of what we're reading.
-
-We'll only come up for air and consult reference documentation as needed.
+We'll muck through the source code together, and do our best to make sense of what we're reading. We'll only come up for air and consult reference documentation as needed.
 
 Let's start by examining some of the NFTs that have recently been mentioned in
 the news.
