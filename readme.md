@@ -394,3 +394,13 @@ that seems similar to Python's PEPs. But there doesn't seem to be any language a
 affirmative licensing anywhere. In fact, all the ERC documents like ERC721 reference cc0, as if
 the contributors are trying to waive all their rights to any protectible content in the specifications.
 
+# Next Lines of Investigation: Beeple's data, and the ERC721 specification.
+
+## Beeple's data
+
+We read through Beeple's NFT smart contract, and picked up some good knowledge just reading through the comments.
+But how did Beeple come to be the 'singleCreatorAddress'? Where does 'tokenURI' point to? Why are their 80,000 associated transactions
+with this thing?
+
+Let's find out.
+
