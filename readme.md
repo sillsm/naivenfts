@@ -4,16 +4,19 @@ We are naive. We know nothing about Ethereum, NFTs, anything. What do we do?
 When we attend a presentation or read a document about NFTs, we take away confusing 
 generalities that don't make sense, and leave us more confused.
 
-In this naive introduction, we'll learn about NFTs by exploring the source code
-of the smart contracts directly. We'll just muck through function comments and do our 
-best to piece it together. We'll only come up for air and reference documentation and specifications
-as needed to make sense of what we're reading.
+In this naive introduction, we'll learn about NFTs by rolling up our sleeves and
+exploring their source code directly. You don't need to have coding experience to do
+this, because the function comments are really detailed. 
+
+We'll muck through the source code together and do our best to make sense of what we're reading.
+
+We'll only come up for air and consult reference documentation as needed.
 
 Let's start by examining some of the NFTs that have recently been mentioned in
 the news.
 
 There's [Beeple's artwork](https://onlineonly.christies.com/s/first-open-beeple/beeple-b-1981-1/112924)
-which sold for over $69 million dollars. The Christies' website has two odd links
+which sold for over $69 million dollars. The Christies' website has two odd links.
 
 ```
 wallet address: 0xc6b0562605D35eE710138402B878ffe6F2E23807
