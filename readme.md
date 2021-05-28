@@ -50,7 +50,11 @@ $133.54 / ETH. Where's the artwork though? Who owns it?
 Ah, there's a link for the smart contract [source code](https://etherscan.io/address/0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756#code). Let's poke around in there a bit
 and see what we can guess at.
 
-Reading the source code together, from the top
+## Reading through the source code
+
+Please pull up the Beeple NFT source code from the link above, and have it open. We're going to read it through together. We don't have any idea what it means, but we're going to do our best to just guess by using context clues and writing down what we observe.
+
+From the top:
 ```
 pragma solidity ^0.4.21;
 ```
