@@ -1,8 +1,8 @@
 # A Naive Introduction to NFTs
 
 We are naive. We know nothing about Ethereum, NFTs, anything. What do we do?
-Anytime we attend a presentation or read a document about NFTs, we take away confusing 
-generalities that don't make sense, and leave us more confused than before.
+When we attend a presentation or read a document about NFTs, we take away confusing 
+generalities that don't make sense, and leave us more confused.
 
 In this naive introduction, we'll learn about NFTs by exploring the source code
 of the smart contracts directly. We'll just muck through function comments and do our 
