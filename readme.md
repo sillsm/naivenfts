@@ -385,6 +385,10 @@ from the Perfect 10 case that [merely hyperlinking is fair use](https://en.wikip
 rights to a copyrighted work, if anyone in the world is allowed to link to it?
 We'll save this question for later.
 
+We learned there's a baked-in escrow for NFTs. There is likely some waiting period
+between when a purchaser sends funds and the artist agrees to mint a token.
+How does this affect token resales? Do they require the artist's permission?
+
 We saw some reference to a cryptographic hash function keccak256, though we didn't
 quite figure out what it's meant for. Maybe it's used to verify the artwork is valid, by hashing it?
 Is a hash of the artwork stored in the smart contract somewhere?
