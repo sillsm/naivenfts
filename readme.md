@@ -177,7 +177,7 @@ contract ERC721Basic {
 
 What does ERC721 mean? How do people enforce that this standard is implemented?
 Is there a standardization process like ISO or something? Are there IP licenses
-associated with this standard? Is it managed by a body, a group of contributors,
+associated with this standard? Is it managed by a corporate entity, a group of contributors,
 something else? Many questions arise.
 
 We'll come back to digging into ERC721 in much more detail later. For now we observe
